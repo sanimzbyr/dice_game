@@ -1,0 +1,40 @@
+D:\Codes\csharp_codes\dg\bin\Debug\net9.0\dg.exe
+D:\Codes\csharp_codes\dg\bin\Debug\net9.0\dg.deps.json
+D:\Codes\csharp_codes\dg\bin\Debug\net9.0\dg.runtimeconfig.json
+D:\Codes\csharp_codes\dg\bin\Debug\net9.0\dg.dll
+D:\Codes\csharp_codes\dg\bin\Debug\net9.0\dg.pdb
+D:\Codes\csharp_codes\dg\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\Codes\csharp_codes\dg\bin\Debug\net9.0\ConsoleTables.dll
+D:\Codes\csharp_codes\dg\bin\Debug\net9.0\SHA3.Net.dll
+D:\Codes\csharp_codes\dg\bin\Debug\net9.0\Wcwidth.dll
+D:\Codes\csharp_codes\dg\obj\Debug\net9.0\dg.csproj.AssemblyReference.cache
+D:\Codes\csharp_codes\dg\obj\Debug\net9.0\dg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\csharp_codes\dg\obj\Debug\net9.0\dg.AssemblyInfoInputs.cache
+D:\Codes\csharp_codes\dg\obj\Debug\net9.0\dg.AssemblyInfo.cs
+D:\Codes\csharp_codes\dg\obj\Debug\net9.0\dg.csproj.CoreCompileInputs.cache
+D:\Codes\csharp_codes\dg\obj\Debug\net9.0\dg.csproj.Up2Date
+D:\Codes\csharp_codes\dg\obj\Debug\net9.0\dg.dll
+D:\Codes\csharp_codes\dg\obj\Debug\net9.0\refint\dg.dll
+D:\Codes\csharp_codes\dg\obj\Debug\net9.0\dg.pdb
+D:\Codes\csharp_codes\dg\obj\Debug\net9.0\dg.genruntimeconfig.cache
+D:\Codes\csharp_codes\dg\obj\Debug\net9.0\ref\dg.dll
+D:\Work\Task 3\dg\bin\Debug\net9.0\dg.exe
+D:\Work\Task 3\dg\bin\Debug\net9.0\dg.deps.json
+D:\Work\Task 3\dg\bin\Debug\net9.0\dg.runtimeconfig.json
+D:\Work\Task 3\dg\bin\Debug\net9.0\dg.dll
+D:\Work\Task 3\dg\bin\Debug\net9.0\dg.pdb
+D:\Work\Task 3\dg\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\Work\Task 3\dg\bin\Debug\net9.0\ConsoleTables.dll
+D:\Work\Task 3\dg\bin\Debug\net9.0\SHA3.Net.dll
+D:\Work\Task 3\dg\bin\Debug\net9.0\Wcwidth.dll
+D:\Work\Task 3\dg\obj\Debug\net9.0\dg.csproj.AssemblyReference.cache
+D:\Work\Task 3\dg\obj\Debug\net9.0\dg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Task 3\dg\obj\Debug\net9.0\dg.AssemblyInfoInputs.cache
+D:\Work\Task 3\dg\obj\Debug\net9.0\dg.AssemblyInfo.cs
+D:\Work\Task 3\dg\obj\Debug\net9.0\dg.csproj.CoreCompileInputs.cache
+D:\Work\Task 3\dg\obj\Debug\net9.0\dg.csproj.Up2Date
+D:\Work\Task 3\dg\obj\Debug\net9.0\dg.dll
+D:\Work\Task 3\dg\obj\Debug\net9.0\refint\dg.dll
+D:\Work\Task 3\dg\obj\Debug\net9.0\dg.pdb
+D:\Work\Task 3\dg\obj\Debug\net9.0\dg.genruntimeconfig.cache
+D:\Work\Task 3\dg\obj\Debug\net9.0\ref\dg.dll
